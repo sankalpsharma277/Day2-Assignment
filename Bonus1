@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Birthday Invite</title>
+</head>
+<body>
+    <h1>You're Invited!</h1>
+    <p>Hey friends! I'm throwing a small birthday party and would love for you to come celebrate with me.</p>
+    <p><strong>Date:</strong> July 15</p>
+    <p><strong>Time:</strong> 5 PM</p>
+    <p><strong>Place:</strong> My House</p>
+
+    <img src="https://plus.unsplash.com/premium_photo-1663839412026-51a44cfadfb8?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmlydGhkYXl8ZW58MHx8MHx8fDA%3D" alt="Birthday balloons" width="300">
+
+    <hr>
+    <p><em>Hope to see you there!</em></p>
+</body>
+</html>
